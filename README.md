@@ -1,3 +1,8 @@
+# Change Log
+  - project created on macOS, Visual Studio Code used to code.
+    - dotnet new react -o GeekHunters/
+  - redux, axios, thunk needed.
+
 # Geek Hunters
 
 You are working at IT-recruiting agency "Geek Hunters". Your employer asked you to implement Geek Registration System
